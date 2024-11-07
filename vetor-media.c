@@ -33,7 +33,7 @@ int main(){
     } for ( i = 0; i < tamanho; i++){
         printf("\nvetor[%d] = %.2f",i, vetor[i]);
     }
-    printf("\nA mádia dos valores é: %.2f", soma/tamanho);
+    printf("\nA media dos valores é: %.2f", soma/tamanho);
     
     
     return 0;
